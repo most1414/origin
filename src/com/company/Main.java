@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Kolejna zmiana");
 //1123
         // konflikt rozwiązany
+        System.out.println("Nowa funkcjonalnosc projektu");
     }
 }
