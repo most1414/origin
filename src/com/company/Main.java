@@ -1,8 +1,11 @@
 package com.company;
-
+// ctrl + D
+// sout (syso)
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("Hello World!");
+        System.out.println("Publikujemy pierwszy program!!!");
+
     }
 }
